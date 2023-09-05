@@ -7,13 +7,3 @@ I am yeobeom Yun, student in the [Dept. of Computer Science and Engineering](htt
 I pratice these language now
 * **C++ language**
 * **C# language**
-* **Python**
-
-And I study these subjects now
-* opensourceprogramming :computer:
-* Algorithm
-* Webprogramming
-* Data communication
-* MultimediaProgramming :video_camera:
-* Database
-* UnixProgramming
