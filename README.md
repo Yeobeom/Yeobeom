@@ -3,8 +3,9 @@
 I am yeobeom Yun, student in the [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SeoulTech](https://en.seoultech.ac.kr/).
 
 I pratice these language now
-* **C language**
-* **python**
+* **C++ language**
+* **C# language**
+* **Python**
 
 And I study these subjects now
 * opensourceprogramming :computer:
