@@ -2,6 +2,8 @@
 
 I am yeobeom Yun, student in the [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SeoulTech](https://en.seoultech.ac.kr/).
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeobeom&show_icons=true&theme=radical)
+
 I pratice these language now
 * **C++ language**
 * **C# language**
